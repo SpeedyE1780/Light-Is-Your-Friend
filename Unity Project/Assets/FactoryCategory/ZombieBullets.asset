@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd7d434f3d6b804ca41ccb3b6a71738, type: 3}
+  m_Name: ZombieBullets
+  m_EditorClassIdentifier: 
+  CategoryItems:
+  - {fileID: 5279452039657257397, guid: b97266e2798369640baba11026431f8b, type: 3}
